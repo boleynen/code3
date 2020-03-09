@@ -1,0 +1,2 @@
+real_escape_string -> maakt quotes ( ' ) ongedaan
+maakt makkelijke databreaches onmogelijk

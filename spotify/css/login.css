@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(34, 34, 34);
+}
+#logo{
+    width: 300px;
+    margin-bottom: 60px;
+}
+form{
+    text-align: center;
+    margin-top: 180px;
+}
+#fb-btn{
+    display: block;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(66, 103, 178);
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px 0px;
+    border-radius: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+#email, #password{
+    width: 470px;
+    padding: 10px 0px;
+    border: none;
+    background-color: rgb(75, 75, 75);
+}
+#email[type="text"], #password[type="password"]{
+    color: rgb(153, 153, 153);
+    font-size: 17px;
+    padding-left: 30px;
+}
+#email{
+    margin: 50px 0px 30px 0px;
+}
+#password{
+    margin-bottom: 50px;
+}
+#submit{
+    width: 150px;
+    padding: 10px 0px;
+    border-radius: 50px;
+    border: none;
+    background-color: #1DD05D;
+    color: white;
+    text-transform: uppercase;
+    
+}
+#submit[type="submit"]{
+    font-size:17px;
+    letter-spacing: 2px;
+}
